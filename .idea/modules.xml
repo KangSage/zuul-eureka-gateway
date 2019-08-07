@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-client1/eureka-client1.iml" filepath="$PROJECT_DIR$/eureka-client1/eureka-client1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-client1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-client1.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-client1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-client1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-client2.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-client2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-client2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-client2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-client2.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-client3.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-client3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-client3.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-client3.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-client3.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-client3.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/eureka-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/eureka-server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zuul-eureka-gateway.iml" filepath="$PROJECT_DIR$/.idea/zuul-eureka-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-server/zuul-server.iml" filepath="$PROJECT_DIR$/zuul-server/zuul-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zuul-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/zuul-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/zuul-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/zuul-server.test.iml" />
+    </modules>
+  </component>
+</project>

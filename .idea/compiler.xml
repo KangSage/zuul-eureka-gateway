@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="com.example.eureka-client2.main" target="1.8" />
+      <module name="com.example.eureka-client2.test" target="1.8" />
+      <module name="eureka-client.main" target="1.8" />
+      <module name="eureka-client.test" target="1.8" />
+      <module name="eureka-client1.main" target="1.8" />
+      <module name="eureka-client1.test" target="1.8" />
+      <module name="eureka-client2.main" target="1.8" />
+      <module name="eureka-client2.test" target="1.8" />
+      <module name="eureka-client3.main" target="1.8" />
+      <module name="eureka-client3.test" target="1.8" />
+      <module name="eureka-server.main" target="1.8" />
+      <module name="eureka-server.test" target="1.8" />
+      <module name="zuul-server.main" target="1.8" />
+      <module name="zuul-server.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

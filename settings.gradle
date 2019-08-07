@@ -1,0 +1,2 @@
+rootProject.name = 'zuul-eureka-gateway'
+include 'eureka-server', 'zuul-server', 'eureka-client1', 'eureka-client2', 'eureka-client3'
